@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matthew McCaskill (ZekNikZ)</h1>
 <h3 align="center">A passionate student developer from Goodyear, Arizona</h3>
 
----
-
 - 🌱 I’m currently learning **React + Spring**
 
 - 👨‍💻 All of my projects are available at [mattrm.dev](mattrm.dev)
