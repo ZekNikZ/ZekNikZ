@@ -42,8 +42,6 @@
   <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
----
-
 <p align="center">
   <img style="width:500px" src="https://github-readme-stats.vercel.app/api?username=zeknikz&count_private=true&show_icons=true&theme=prussian"/>
 </p>
