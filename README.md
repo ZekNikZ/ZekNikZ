@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React + Spring**
 
-- 👨‍💻 All of my projects are available at [mattrm.dev](mattrm.dev)
+- 👨‍💻 All of my projects are available at [https://mattrm.dev](https://mattrm.dev)
 
 - 💬 Ask me about **anything!**
 
