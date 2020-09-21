@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Matthew McCaskill (ZekNikZ)</h1>
 <h3 align="center">A passionate student developer from Goodyear, Arizona</h3>
 
+---
+
 - 🌱 I’m currently learning **React + Spring**
 
 - 👨‍💻 All of my projects are available at [mattrm.dev](mattrm.dev)
@@ -8,6 +10,8 @@
 - 💬 Ask me about **anything!**
 
 - 📫 React me at **me@mattrm.dev**
+
+---
 
 <p align="center">
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -39,6 +43,8 @@
   <img src="https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
+
+---
 
 <p align="center">
   <img style="width:500px" src="https://github-readme-stats.vercel.app/api?username=zeknikz&count_private=true&show_icons=true&theme=prussian"/>
