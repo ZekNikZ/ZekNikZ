@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Matthew McCaskill (ZekNikZ)</h1>
+<h3 align="center">A passionate student developer from Goodyear, Arizona</h3>
 
-<!--
-**ZekNikZ/ZekNikZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **React + Spring**
 
-Here are some ideas to get you started:
+- 👨‍💻 All of my projects are available at [mattrm.dev](mattrm.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **anything!**
+
+- 📫 React me at **me@mattrm.dev**
+
+![Stats][stats-url]
+
+
+[stats-url]: https://github-readme-stats.vercel.app/api?username=zeknikz&count_private=true&show_icons=true&theme=prussian
+
