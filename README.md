@@ -54,6 +54,11 @@ I currently work as a **Suplemental Instruction Leader** for Calculus I. I love 
   <img style="width:500px" src="https://github-readme-stats.vercel.app/api?username=zeknikz&count_private=true&show_icons=true&theme=prussian"/>
 </p>
 
+<details>
+<summary>GitHub Stats</summary>
+<br>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zeknikz&margin-w=15&theme=gruvbox&column=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=zeknikz&margin-w=15&margin-h=15&theme=gruvbox&column=4"/>
 </p>
+</details>
+
