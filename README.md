@@ -5,7 +5,7 @@ My name is Matthew McCaskill, a Junior Computer Science candidate at Baylor Univ
 
 I currently work as a **Suplemental Instruction Leader** for Calculus I. I love to teach, but, more importantly, I love to design and implement systems that improve the educational experiences and assist the local church!
 
-- 🌱 I’m currently learning **React** and **Spring**
+- 🌱 I’m currently learning **GraphQL** and **Typescript**
 
 <!-- - 👨‍💻 All of my projects are available at [https://mattrm.dev](https://mattrm.dev) -->
 
