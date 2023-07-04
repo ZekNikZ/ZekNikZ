@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Matthew McCaskill (ZekNikZ)</h1>
-<h3>A passionate student developer from Goodyear, Arizona</h3>
+<h3>A passionate software developer in Dallas, Texas</h3>
 
-My name is Matthew McCaskill, a Junior Computer Science candidate at Baylor University who loves to make lives better and easier through the use of software! I am passionate about many different aspects of the software development ecosystem, but I particularly enjoy frontend development and competitive programming. My go-to stack is React or vanilla HTML/CSS/JS for a frontend with a Spring Boot or NodeJS backend, supported by a MYSQL or MongoDB database. 
+My name is Matthew McCaskill, a Baylor University graduate who loves to make lives better and easier through the use of software! I am passionate about many different aspects of the software development ecosystem, but I particularly enjoy frontend/mobile development and competitive programming. My go-to stack is React or vanilla HTML/CSS/JS for a frontend with a Spring Boot or NodeJS backend, supported by a MYSQL or MongoDB database. 
 
-I currently work as a **Suplemental Instruction Leader** for Calculus I. I love to teach, but, more importantly, I love to design and implement systems that improve the educational experiences and assist the local church!
+I currently work as a **Technology Consultant** for [Credera](https://www.credera.com/). I love to teach, but, more importantly, I love to design and implement systems that improve the educational experiences and assist the local church!
 
-- 🌱 I’m currently learning **GraphQL** and **Typescript**
+- 🌱 I’m currently learning **Flutter** and **CI/CD**
 
 <!-- - 👨‍💻 All of my projects are available at [https://mattrm.dev](https://mattrm.dev) -->
 
